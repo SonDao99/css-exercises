@@ -1,5 +1,9 @@
 # CSS Exercises
 
+These are CSS exercises from The Odin Project. I've uploaded them here as a way to show my progress and as a reminder of how to use the git work flow. I've kept the original instructions below:
+
+## Instructions:
+
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
 These exercises should be done when instructed during the course of the curriculum.
